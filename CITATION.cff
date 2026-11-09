@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "AEO Crown Tracker: open dataset and methodology"
+message: "If you use this dataset or methodology, please cite it as below."
+type: dataset
+authors:
+  - family-names: Schmid
+    given-names: Patrick
+    affiliation: "Rankscale; WAUMEDIA"
+    website: "https://www.patrickschmid.at/"
+repository-code: "https://github.com/TODO-GITHUB-USERNAME/king-of-aeo"
+url: "https://www.patrickschmid.at/aeo-crown-tracker-methodology/"
+abstract: >-
+  Open prompt set, scoring rules and per-answer metadata for measuring who
+  AI answer engines name, name first and cite when asked who the King of AEO
+  (Answer Engine Optimization) is. Coverage: 14 September 2026 to 19 October
+  2026; 1,085 answers from ChatGPT, Google AI Mode and Google AI Overviews
+  in the United States.
+keywords:
+  - AEO
+  - answer engine optimization
+  - GEO
+  - AI search
+  - AI Overviews
+  - LLM visibility
+  - King of AEO
+license: CC-BY-4.0
+version: "0.1.0"
+date-released: "2026-11-09"

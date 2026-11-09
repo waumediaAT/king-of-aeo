@@ -1,0 +1,14 @@
+prompt,prompt_set,engines,frequency,market,language,status
+who is the king of aeo,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+king of aeo,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+AEO king,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+who is currently considered the king of aeo,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+who holds the king of aeo title now,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+has the king of aeo changed,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+king of aeo contenders list,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+who are the contenders for king of aeo,weekly,ChatGPT;Google AI Mode;Google AI Overview,weekly (Mondays),US,en,active_in_coverage_window
+King of AEO,continuous,Google AI Overview,hourly,US,en,active_in_coverage_window
+Who is the King of AEO?,continuous,Google AI Overview,daily,US,en,active_in_coverage_window
+who is currently considered the king of aeo,continuous,Google AI Overview,daily,US,en,active_in_coverage_window
+patrick schmid king of aeo,self_referencing,Google AI Overview,hourly (paused since 2026-09-19),US,en,paused
+why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,hourly (paused since 2026-09-19),US,en,paused

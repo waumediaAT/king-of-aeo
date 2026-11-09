@@ -1,0 +1,1086 @@
+id,date,executed_at_utc,prompt,prompt_set,engine,market,language,answer_shown,no_ai_overview,names_detected,named_first,patrick_schmid_named,patrickschmid_at_cited,citation_count
+ctr_335ccd05df5f,2026-09-14,2026-09-14T12:54:46.210Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_fe3a3b51395e,2026-09-14,2026-09-14T12:54:47.222Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_217b663c717e,2026-09-14,2026-09-14T13:17:37.051Z,who is currently considered the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_623bcfb00658,2026-09-14,2026-09-14T13:42:47.112Z,king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_71fca3686600,2026-09-14,2026-09-14T13:42:48.296Z,who is the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_233b81ec6314,2026-09-14,2026-09-14T13:43:06.789Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_104aee088e05,2026-09-14,2026-09-14T13:43:27.156Z,AEO king,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,3
+ctr_1ca18028e567,2026-09-14,2026-09-14T13:43:28.406Z,has the king of aeo changed,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,13
+ctr_2b0f4a23d6d1,2026-09-14,2026-09-14T13:43:30.214Z,king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,6
+ctr_db1604e01051,2026-09-14,2026-09-14T13:43:31.805Z,who are the contenders for king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,3
+ctr_ee25854fa063,2026-09-14,2026-09-14T13:43:32.481Z,who holds the king of aeo title now,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Stephane Morera|Vithurs,Vithurs,false,false,8
+ctr_910cf8a84284,2026-09-14,2026-09-14T13:43:32.597Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_25d140141d4c,2026-09-14,2026-09-14T13:43:34.727Z,king of aeo contenders list,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,2
+ctr_b90f71edd026,2026-09-14,2026-09-14T13:43:36.923Z,king of aeo contenders list,weekly,ChatGPT,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Vithurs,Vithurs,false,false,23
+ctr_a8f9acb3e09c,2026-09-14,2026-09-14T13:43:37.639Z,who is the king of aeo,weekly,Google AI Mode,US,en,true,false,James Dooley|Vithurs,James Dooley,false,false,5
+ctr_5bf2db9d5a9f,2026-09-14,2026-09-14T13:43:38.383Z,AEO king,weekly,Google AI Mode,US,en,true,false,David Quaid,David Quaid,false,false,3
+ctr_527f236d1537,2026-09-14,2026-09-14T13:43:39.156Z,who holds the king of aeo title now,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,23
+ctr_27a5f9eacbac,2026-09-14,2026-09-14T13:43:39.415Z,has the king of aeo changed,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_9286cdfba224,2026-09-14,2026-09-14T13:43:40.947Z,AEO king,weekly,ChatGPT,US,en,true,false,David Quaid|Vithurs,Vithurs,false,false,13
+ctr_1c5c657d5160,2026-09-14,2026-09-14T13:43:40.980Z,who are the contenders for king of aeo,weekly,ChatGPT,US,en,true,false,,,false,false,31
+ctr_05aa4cb156c8,2026-09-14,2026-09-14T13:43:42.654Z,who holds the king of aeo title now,weekly,Google AI Mode,US,en,true,false,Vithurs,Vithurs,false,false,2
+ctr_eed7c7c46fad,2026-09-14,2026-09-14T13:43:43.759Z,who is currently considered the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_8cf9ad6c8593,2026-09-14,2026-09-14T13:43:44.067Z,who are the contenders for king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,7
+ctr_7d511822d914,2026-09-14,2026-09-14T13:43:46.077Z,king of aeo contenders list,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,2
+ctr_f83cace7164d,2026-09-14,2026-09-14T13:43:46.812Z,who is currently considered the king of aeo,weekly,ChatGPT,US,en,true,false,,,false,false,24
+ctr_236cf791b701,2026-09-14,2026-09-14T13:44:21.784Z,has the king of aeo changed,weekly,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_0250ca4ffdfe,2026-09-14,2026-09-14T13:44:37.188Z,king of aeo,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,21
+ctr_bd43ee493779,2026-09-14,2026-09-14T13:45:06.226Z,who is the king of aeo,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,12
+ctr_c09dfd1f4394,2026-09-14,2026-09-14T13:49:20.080Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_0c9a5ac2903e,2026-09-14,2026-09-14T14:42:43.509Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e266b9a8ff5c,2026-09-14,2026-09-14T14:45:59.059Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_567716389a48,2026-09-14,2026-09-14T14:48:33.137Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_3d679bb2e269,2026-09-14,2026-09-14T15:40:57.670Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ec32e9e11082,2026-09-14,2026-09-14T15:41:22.072Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e117a049db3c,2026-09-14,2026-09-14T15:43:23.291Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_2eabbbdc93e6,2026-09-14,2026-09-14T17:41:11.345Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a66035cf5a57,2026-09-14,2026-09-14T17:42:43.993Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_08f3e7e7fa0a,2026-09-14,2026-09-14T17:43:02.075Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b4335ba8bcc3,2026-09-14,2026-09-14T18:13:34.741Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_9c19e47b4f90,2026-09-14,2026-09-14T18:17:13.657Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_30788a875da8,2026-09-14,2026-09-14T18:22:48.868Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_70002a275e20,2026-09-14,2026-09-14T19:10:03.562Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e336cd7d33d4,2026-09-14,2026-09-14T19:19:02.084Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_088d26c93a48,2026-09-14,2026-09-14T19:20:46.834Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_48f5aabd0d1e,2026-09-14,2026-09-14T20:15:08.708Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a8c1ff96297f,2026-09-14,2026-09-14T20:18:01.021Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ae130bf9e235,2026-09-14,2026-09-14T20:26:51.790Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_466bf0aded29,2026-09-14,2026-09-14T21:11:20.946Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5b0c10738f67,2026-09-14,2026-09-14T21:11:23.179Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_7d8b989bf7d9,2026-09-14,2026-09-14T21:20:06.958Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e5aad7f176bc,2026-09-14,2026-09-14T22:12:52.032Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_06cc027e69eb,2026-09-14,2026-09-14T22:13:28.613Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b469bf0b335e,2026-09-14,2026-09-14T22:19:46.527Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_5e804c389fe0,2026-09-14,2026-09-14T23:14:01.777Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_508c2da58a3c,2026-09-14,2026-09-14T23:14:04.727Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_995ded4bc81d,2026-09-14,2026-09-14T23:14:17.133Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_0724d4a0fb48,2026-09-15,2026-09-15T00:18:23.997Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_13a5bfb22fae,2026-09-15,2026-09-15T00:32:51.688Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c1f10c9e532b,2026-09-15,2026-09-15T00:35:03.973Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_cfb20aa92e23,2026-09-15,2026-09-15T01:16:15.489Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_544f3b1fcf70,2026-09-15,2026-09-15T01:34:56.745Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_681df5555887,2026-09-15,2026-09-15T01:46:34.280Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b1cac26fe287,2026-09-15,2026-09-15T02:19:14.299Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_68e4f22b3718,2026-09-15,2026-09-15T02:33:04.251Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_66d500916fee,2026-09-15,2026-09-15T02:42:17.044Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d29c0c21dee7,2026-09-15,2026-09-15T03:11:11.540Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_91db942e1f14,2026-09-15,2026-09-15T03:11:22.643Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_865213ba89c9,2026-09-15,2026-09-15T03:12:12.401Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_4f5e00f20b67,2026-09-15,2026-09-15T04:09:29.063Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_695132de1064,2026-09-15,2026-09-15T04:10:27.125Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_02f785205508,2026-09-15,2026-09-15T04:14:41.018Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5d3d4640592c,2026-09-15,2026-09-15T05:14:55.002Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b49578955c6c,2026-09-15,2026-09-15T05:18:34.834Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_4be506ef5b64,2026-09-15,2026-09-15T05:22:07.591Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_835d76b2ad64,2026-09-15,2026-09-15T06:12:06.703Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_32e8e563a06b,2026-09-15,2026-09-15T06:16:44.290Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_55acd2373eba,2026-09-15,2026-09-15T06:30:28.859Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_06d239b0c7d9,2026-09-15,2026-09-15T07:25:33.117Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b139589a8844,2026-09-15,2026-09-15T07:29:56.296Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6874155f5d3e,2026-09-15,2026-09-15T07:33:51.704Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_a7465b3b3eb5,2026-09-15,2026-09-15T08:41:30.709Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e147eee9a9e1,2026-09-15,2026-09-15T08:45:07.024Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_5d6fdc41755c,2026-09-15,2026-09-15T08:45:58.992Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ad8746b4858f,2026-09-15,2026-09-15T09:42:21.619Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_04bee9ad7c30,2026-09-15,2026-09-15T09:47:02.038Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0879fce8bfdc,2026-09-15,2026-09-15T09:50:35.916Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_8ed119387cee,2026-09-15,2026-09-15T16:41:40.861Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a8f0515959e0,2026-09-15,2026-09-15T16:45:30.083Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_539dd1a25ac6,2026-09-15,2026-09-15T16:48:02.027Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_98da18872e42,2026-09-15,2026-09-15T16:54:49.703Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_2c4e9dcc945c,2026-09-15,2026-09-15T16:56:27.047Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e269a79f9072,2026-09-15,2026-09-15T17:16:08.027Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6414d76742c0,2026-09-15,2026-09-15T17:16:09.987Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_7b3759d6a99c,2026-09-15,2026-09-15T17:21:06.811Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_87c599776a53,2026-09-15,2026-09-15T18:22:12.714Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_691e1ab1e4c4,2026-09-15,2026-09-15T18:26:06.074Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_de79f4fc2c95,2026-09-15,2026-09-15T18:34:25.987Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_34cf102095bd,2026-09-15,2026-09-15T19:11:57.269Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e554b1c7096f,2026-09-15,2026-09-15T19:14:14.816Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_97127479efea,2026-09-15,2026-09-15T19:15:10.975Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_165466071f68,2026-09-15,2026-09-15T20:11:00.373Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ddec0aac43f2,2026-09-15,2026-09-15T20:13:25.974Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a1d30c5e3fc7,2026-09-15,2026-09-15T20:15:14.179Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_caa3db1cbd38,2026-09-15,2026-09-15T21:53:24.036Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_2e2dc8118283,2026-09-15,2026-09-15T21:58:12.724Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_36d21af4c865,2026-09-15,2026-09-15T22:00:20.911Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_3c749ce31916,2026-09-15,2026-09-15T22:28:03.842Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_507822f2152b,2026-09-15,2026-09-15T22:31:22.582Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ae4d92ac4530,2026-09-15,2026-09-15T23:27:11.507Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e94cf7728fe8,2026-09-15,2026-09-15T23:30:30.443Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_406634d05552,2026-09-15,2026-09-15T23:36:46.994Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_ea19ba451ac0,2026-09-16,2026-09-16T00:21:35.720Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c2554001a9d6,2026-09-16,2026-09-16T00:25:25.881Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_701509e53d2d,2026-09-16,2026-09-16T00:26:14.616Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_58806e9a9a64,2026-09-16,2026-09-16T01:15:39.132Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_fc818d27aa1c,2026-09-16,2026-09-16T01:15:40.539Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a991b3e009c6,2026-09-16,2026-09-16T01:16:49.876Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_4714bce1796f,2026-09-16,2026-09-16T02:15:51.646Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_0c5714ce19a1,2026-09-16,2026-09-16T02:29:25.344Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_2db719a4833c,2026-09-16,2026-09-16T02:32:23.691Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_523b44f2ba5f,2026-09-16,2026-09-16T03:09:39.152Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_93a909658e0f,2026-09-16,2026-09-16T03:10:35.496Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_bcee7f31a51e,2026-09-16,2026-09-16T03:10:59.520Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_6cd9b93f3fd4,2026-09-16,2026-09-16T04:09:28.235Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_7d056aaa9328,2026-09-16,2026-09-16T04:12:05.908Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_6dcc196c6b15,2026-09-16,2026-09-16T04:14:33.334Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_fe8fb9ea2711,2026-09-16,2026-09-16T05:11:57.629Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ff4a0248a906,2026-09-16,2026-09-16T05:20:43.812Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_5f4fcdc37282,2026-09-16,2026-09-16T05:22:05.905Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ef8c8ab4ddd3,2026-09-16,2026-09-16T06:25:49.276Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_826c4a2e677b,2026-09-16,2026-09-16T06:34:56.149Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6c3365b57c8a,2026-09-16,2026-09-16T06:36:20.768Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_97af1b702096,2026-09-16,2026-09-16T16:44:31.013Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_5718f7c99028,2026-09-16,2026-09-16T16:50:10.295Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_14b8b86d7ac0,2026-09-16,2026-09-16T16:53:08.392Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ff0a88496758,2026-09-16,2026-09-16T17:01:38.971Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,5
+ctr_933891b5f002,2026-09-16,2026-09-16T17:07:15.066Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_4abd27f75c1a,2026-09-16,2026-09-16T20:14:55.571Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6dd0c14c6856,2026-09-16,2026-09-16T20:20:06.602Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_b0bd96702b17,2026-09-16,2026-09-16T20:25:08.060Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0709e137bfe8,2026-09-16,2026-09-16T21:17:53.320Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5381a9953e9f,2026-09-16,2026-09-16T21:18:04.583Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_19776d94474c,2026-09-16,2026-09-16T21:19:10.607Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_01e6ad6b483a,2026-09-16,2026-09-16T22:18:45.609Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_085f8e696d47,2026-09-16,2026-09-16T22:21:55.111Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_73ccc09034a7,2026-09-16,2026-09-16T22:22:28.919Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ee0de8ea738a,2026-09-16,2026-09-16T23:13:39.419Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a78aa81a8e77,2026-09-16,2026-09-16T23:15:04.265Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_76b0dbe0ab15,2026-09-16,2026-09-16T23:16:59.681Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_d3f6543709f3,2026-09-17,2026-09-17T00:18:32.870Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b9751c7779ff,2026-09-17,2026-09-17T00:19:42.728Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_d1a5f6ad32a6,2026-09-17,2026-09-17T00:25:40.463Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_656e34a2c23f,2026-09-17,2026-09-17T01:14:26.734Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_b5dec3ad167d,2026-09-17,2026-09-17T01:16:35.330Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_9e6b07eb09ef,2026-09-17,2026-09-17T01:18:06.449Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_bb2b969f8a60,2026-09-17,2026-09-17T02:23:41.192Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_246ef652385e,2026-09-17,2026-09-17T02:24:21.575Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_a5a5e187df06,2026-09-17,2026-09-17T02:25:29.995Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_f9e0bfea509b,2026-09-17,2026-09-17T03:14:38.516Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_31a235123438,2026-09-17,2026-09-17T03:15:22.436Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_e30ded6480cd,2026-09-17,2026-09-17T03:17:00.950Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_7707fecd7141,2026-09-17,2026-09-17T04:13:53.363Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_1987eb875244,2026-09-17,2026-09-17T04:15:58.375Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_357fafa31cce,2026-09-17,2026-09-17T04:17:15.854Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_8e6db59f2855,2026-09-17,2026-09-17T05:17:37.465Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_a51be4cf6901,2026-09-17,2026-09-17T05:21:18.698Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_cb72df7a49f0,2026-09-17,2026-09-17T05:27:19.657Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_22ba3d07986b,2026-09-17,2026-09-17T06:26:40.583Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_7d4902ea80d5,2026-09-17,2026-09-17T06:26:47.504Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_16b4803dbb9a,2026-09-17,2026-09-17T06:29:13.408Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_c4755182484b,2026-09-17,2026-09-17T07:17:04.322Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_957edfdc7190,2026-09-17,2026-09-17T07:27:50.809Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_63b4d28677b2,2026-09-17,2026-09-17T07:39:18.429Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c14d238470cf,2026-09-17,2026-09-17T08:41:54.377Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_559bef35abe7,2026-09-17,2026-09-17T08:45:12.561Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_aec959693296,2026-09-17,2026-09-17T08:45:42.153Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c57ec8a8b2e4,2026-09-17,2026-09-17T11:42:10.145Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_f4719cb0b21e,2026-09-17,2026-09-17T11:44:44.305Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d2df65797975,2026-09-17,2026-09-17T11:47:36.937Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,4
+ctr_bf9fc0d0ee52,2026-09-17,2026-09-17T12:41:58.332Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_9b2101cbf884,2026-09-17,2026-09-17T12:43:29.904Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_752d590afdd7,2026-09-17,2026-09-17T12:44:23.356Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6e86cadd695b,2026-09-17,2026-09-17T13:45:07.795Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0db585bb66dd,2026-09-17,2026-09-17T13:46:28.830Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_225940140bec,2026-09-17,2026-09-17T13:46:59.698Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ae5b0446003e,2026-09-17,2026-09-17T14:10:07.006Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d4317d5f5766,2026-09-17,2026-09-17T14:10:17.751Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,5
+ctr_90bdcbc6b8f5,2026-09-17,2026-09-17T15:19:10.010Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_77bf1898079e,2026-09-17,2026-09-17T15:40:28.257Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_3eb8a49211e6,2026-09-17,2026-09-17T15:41:29.085Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_763a54f6653d,2026-09-17,2026-09-17T16:12:16.278Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b609dc051f1f,2026-09-17,2026-09-17T16:15:55.779Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_77deed4dceec,2026-09-17,2026-09-17T16:21:40.980Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ab7673198144,2026-09-17,2026-09-17T17:16:18.972Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_1221df35bce1,2026-09-17,2026-09-17T17:29:55.352Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b9d035c6ab09,2026-09-17,2026-09-17T17:34:29.063Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_aaed00bd2e69,2026-09-17,2026-09-17T18:15:11.989Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_fc4559ddeb1c,2026-09-17,2026-09-17T18:21:58.140Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_16a2703a6719,2026-09-17,2026-09-17T18:31:38.537Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_568a92a02cb5,2026-09-17,2026-09-17T19:13:10.809Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5e986baa0582,2026-09-17,2026-09-17T19:18:16.246Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c9a6b5a06d9d,2026-09-17,2026-09-17T19:30:19.933Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_95f2bccd1d15,2026-09-17,2026-09-17T20:14:56.542Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_bca9aab90a41,2026-09-17,2026-09-17T20:20:16.606Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_b87f3f2a5648,2026-09-17,2026-09-17T20:24:22.767Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_645ded0153e9,2026-09-17,2026-09-17T21:13:37.694Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_bd5b76ef1cfb,2026-09-17,2026-09-17T21:13:56.448Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_f55369d53419,2026-09-17,2026-09-17T21:16:18.107Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_3d9352a6303f,2026-09-17,2026-09-17T22:12:14.333Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_6c0c30243d92,2026-09-17,2026-09-17T22:14:14.521Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_53ff5442f4aa,2026-09-17,2026-09-17T22:15:05.884Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_930642d3d2cd,2026-09-17,2026-09-17T23:13:00.142Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_c921225fd0db,2026-09-17,2026-09-17T23:14:42.363Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_50d472feb6da,2026-09-17,2026-09-17T23:15:16.585Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5bb5ed563e20,2026-09-18,2026-09-18T00:12:32.941Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_b76da094bd27,2026-09-18,2026-09-18T00:14:28.623Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e554f46593d1,2026-09-18,2026-09-18T00:22:15.700Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_b2b2f41e767d,2026-09-18,2026-09-18T01:13:19.990Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_70e24d2302b7,2026-09-18,2026-09-18T01:15:29.916Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_029dbd5b794f,2026-09-18,2026-09-18T01:15:47.539Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_932152d9ada5,2026-09-18,2026-09-18T02:43:38.550Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_fe89c9b7be7d,2026-09-18,2026-09-18T02:45:03.301Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e7856b4a5233,2026-09-18,2026-09-18T02:54:17.246Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_79eccd1a0576,2026-09-18,2026-09-18T03:12:01.980Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_483c004c50f1,2026-09-18,2026-09-18T03:22:09.322Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6673d77d952e,2026-09-18,2026-09-18T03:22:59.835Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5ba8d1964bdd,2026-09-18,2026-09-18T04:45:19.786Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_4e58d53cf3b9,2026-09-18,2026-09-18T04:47:30.709Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_59c0a7f4f4d8,2026-09-18,2026-09-18T04:54:15.224Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_9bea49a5df20,2026-09-18,2026-09-18T05:52:20.559Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_546cbe0b65fc,2026-09-18,2026-09-18T05:53:55.523Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_06a312bb35f6,2026-09-18,2026-09-18T05:55:31.398Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_625b30065d5d,2026-09-18,2026-09-18T07:48:19.566Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_02546b14adb1,2026-09-18,2026-09-18T07:49:13.066Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0d7e1f99e305,2026-09-18,2026-09-18T07:52:31.297Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c4518915df17,2026-09-18,2026-09-18T08:42:34.542Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_934b392edcd2,2026-09-18,2026-09-18T08:49:09.939Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_ddcf3e67fd67,2026-09-18,2026-09-18T09:03:11.572Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_9328b22c6d1e,2026-09-18,2026-09-18T12:25:56.660Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_94c6cdc2a6cd,2026-09-18,2026-09-18T12:26:00.788Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_7cbcd7d27431,2026-09-18,2026-09-18T12:30:31.388Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_18ace6932f8b,2026-09-18,2026-09-18T13:20:58.358Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a96c0622147a,2026-09-18,2026-09-18T13:25:59.526Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,5
+ctr_aea0a56be542,2026-09-18,2026-09-18T13:57:23.597Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_a22b1decaa75,2026-09-18,2026-09-18T14:01:24.534Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_913b48e4e88b,2026-09-18,2026-09-18T14:07:19.799Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_f145450d100f,2026-09-18,2026-09-18T14:21:54.312Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_666eb6578275,2026-09-18,2026-09-18T14:24:25.835Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_56cae7a37f66,2026-09-18,2026-09-18T15:22:10.149Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_73ebc11b06f6,2026-09-18,2026-09-18T15:22:15.205Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_bd15086d2629,2026-09-18,2026-09-18T15:24:24.601Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_deb983b302d4,2026-09-18,2026-09-18T16:19:57.598Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_25064cbcbbcb,2026-09-18,2026-09-18T16:20:01.588Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d6358b619f3f,2026-09-18,2026-09-18T16:23:53.027Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_6f5cbd392514,2026-09-18,2026-09-18T17:22:03.004Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_638a4869afe3,2026-09-18,2026-09-18T17:22:25.020Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_1393d1b564d9,2026-09-18,2026-09-18T17:27:02.136Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_0be8636c52d8,2026-09-18,2026-09-18T18:20:17.641Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_491b789ebaaf,2026-09-18,2026-09-18T18:20:29.497Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6334069fb43a,2026-09-18,2026-09-18T18:22:25.710Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_a7b7a76694b2,2026-09-18,2026-09-18T19:18:11.335Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_067ffd208ab9,2026-09-18,2026-09-18T19:18:55.731Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d8e6e081f0bf,2026-09-18,2026-09-18T19:25:18.616Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_e2815a06027c,2026-09-18,2026-09-18T20:14:32.128Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_5928924c2274,2026-09-18,2026-09-18T20:21:13.713Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d95ac88d42ea,2026-09-18,2026-09-18T20:21:15.893Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_efb0bfe99a6c,2026-09-18,2026-09-18T21:14:52.689Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_fd51dabefa53,2026-09-18,2026-09-18T21:15:00.037Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_8994adf62bf3,2026-09-18,2026-09-18T21:20:01.136Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_3b8247645114,2026-09-18,2026-09-18T22:11:56.421Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_86af55ed93de,2026-09-18,2026-09-18T22:14:02.774Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_51c36c0acdba,2026-09-18,2026-09-18T22:15:05.441Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_01e9c448b237,2026-09-18,2026-09-18T23:16:49.046Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_d47eb6f8ded3,2026-09-18,2026-09-18T23:17:22.165Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_fa475297991b,2026-09-18,2026-09-18T23:18:08.938Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_a4f31ee7949c,2026-09-19,2026-09-19T00:15:43.322Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_bac41ab40be4,2026-09-19,2026-09-19T00:15:51.672Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_7be3cb0c63ff,2026-09-19,2026-09-19T00:16:15.265Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c4c23e0cf985,2026-09-19,2026-09-19T01:14:25.960Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_63bcdc779edc,2026-09-19,2026-09-19T01:14:27.871Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_2af890ded195,2026-09-19,2026-09-19T01:16:45.769Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_2f137ca80ff7,2026-09-19,2026-09-19T02:15:08.857Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_edee6d06c911,2026-09-19,2026-09-19T02:15:14.733Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_ae791fe5712b,2026-09-19,2026-09-19T02:19:01.442Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_5e5a110bc2dd,2026-09-19,2026-09-19T03:15:31.890Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_49d3d01405be,2026-09-19,2026-09-19T03:15:32.686Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_052e2a434818,2026-09-19,2026-09-19T03:15:35.792Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_0c4c9bdf59ca,2026-09-19,2026-09-19T04:14:25.712Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_8830928fefb6,2026-09-19,2026-09-19T04:14:26.830Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_98be703300ae,2026-09-19,2026-09-19T04:16:47.276Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0a0f40ce21cc,2026-09-19,2026-09-19T05:20:43.389Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_d155052416f1,2026-09-19,2026-09-19T05:21:22.886Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_8bb4eba9f8ca,2026-09-19,2026-09-19T05:23:59.754Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_f4d950b94d1b,2026-09-19,2026-09-19T06:14:37.564Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_7ca72e486861,2026-09-19,2026-09-19T06:17:01.267Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_774f155acff8,2026-09-19,2026-09-19T06:20:05.058Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_7f9020182f14,2026-09-19,2026-09-19T07:20:06.659Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_2c741ddef2d9,2026-09-19,2026-09-19T07:21:52.223Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0cd778425701,2026-09-19,2026-09-19T07:24:02.635Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ebafc88f4750,2026-09-19,2026-09-19T08:19:04.617Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ce31ea6c952e,2026-09-19,2026-09-19T08:26:53.133Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_08f468decab7,2026-09-19,2026-09-19T08:27:50.033Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_886c7af5bcbf,2026-09-19,2026-09-19T09:16:47.519Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_f6e1d7da9d80,2026-09-19,2026-09-19T09:29:23.246Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,0
+ctr_22a28c2caada,2026-09-19,2026-09-19T09:33:58.616Z,why is patrick schmid the new king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a9131ede0b00,2026-09-19,2026-09-19T10:24:37.620Z,patrick schmid king of aeo,self_referencing,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_e722cf6d6164,2026-09-19,2026-09-19T10:29:43.685Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_dfd087fa34cf,2026-09-19,2026-09-19T11:30:34.934Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_17fc48d1102a,2026-09-19,2026-09-19T12:19:35.850Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_d0ef89320b8a,2026-09-19,2026-09-19T13:24:56.374Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,James Dooley|Vithurs,James Dooley,false,false,7
+ctr_b208584df001,2026-09-19,2026-09-19T13:26:25.589Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_0dad6bbc8308,2026-09-19,2026-09-19T13:32:31.274Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_9393004b3998,2026-09-19,2026-09-19T14:27:13.047Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_9468ffca966c,2026-09-19,2026-09-19T15:38:13.846Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,5
+ctr_0f3856e6f9a5,2026-09-19,2026-09-19T16:13:04.363Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_a42587ed9018,2026-09-19,2026-09-19T17:19:16.028Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_f7e6a2d9cf52,2026-09-19,2026-09-19T18:23:52.962Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_2bd5fef9b4cf,2026-09-19,2026-09-19T19:17:34.125Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_d297baaaf4ff,2026-09-19,2026-09-19T20:14:21.859Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_1dc3c8618bb3,2026-09-19,2026-09-19T21:16:13.848Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_b49b455cf11e,2026-09-19,2026-09-19T22:13:44.629Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_4c4b2a1474cd,2026-09-19,2026-09-19T23:13:35.365Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_8fde4bf3c318,2026-09-20,2026-09-20T00:23:21.214Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_b6aeb0583703,2026-09-20,2026-09-20T01:14:00.510Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_5e90719e5ac2,2026-09-20,2026-09-20T02:19:19.013Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_4d5b7cc7b606,2026-09-20,2026-09-20T03:14:14.178Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_5b614e491512,2026-09-20,2026-09-20T04:14:06.199Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_d7f14aa6d6e3,2026-09-20,2026-09-20T05:18:21.790Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_a07ae45bdd5e,2026-09-20,2026-09-20T06:12:30.386Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_d6a692fdaf8b,2026-09-20,2026-09-20T07:21:33.421Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_e23df574b532,2026-09-20,2026-09-20T08:25:07.734Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_8c45fb9bab10,2026-09-20,2026-09-20T09:25:23.841Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_f639521b6ae1,2026-09-20,2026-09-20T10:24:49.335Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_223f8daca224,2026-09-20,2026-09-20T11:23:44.460Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_cd44f3224aae,2026-09-20,2026-09-20T12:38:30.692Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_26d5e8f85689,2026-09-20,2026-09-20T13:24:57.909Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|Vithurs,Vithurs,false,false,7
+ctr_8456e7e7362b,2026-09-20,2026-09-20T13:27:57.765Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_1fb0e39b287d,2026-09-20,2026-09-20T13:39:28.742Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_f5c130376c20,2026-09-20,2026-09-20T14:28:06.121Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_fd0b7ddb049f,2026-09-20,2026-09-20T15:15:44.029Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_208e4cd47f1a,2026-09-20,2026-09-20T16:14:56.067Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_beebaa6af420,2026-09-20,2026-09-20T17:24:27.197Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_626e402c4185,2026-09-20,2026-09-20T18:21:38.179Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_bc91eafde016,2026-09-20,2026-09-20T19:11:22.004Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_6bc5305bdcb0,2026-09-20,2026-09-20T20:11:47.261Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_adf9d8bc8fda,2026-09-20,2026-09-20T21:11:16.383Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,5
+ctr_c86d89e63075,2026-09-20,2026-09-20T22:14:04.399Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_2a6c7ec2319c,2026-09-20,2026-09-20T23:11:58.440Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_9b79e25a8b9a,2026-09-21,2026-09-21T00:15:56.534Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_658f15054c11,2026-09-21,2026-09-21T01:17:42.548Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_e22e674094c8,2026-09-21,2026-09-21T02:36:23.231Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_3b6b89528db3,2026-09-21,2026-09-21T03:08:55.918Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_eac11774eaaf,2026-09-21,2026-09-21T04:16:12.574Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_53ddceefd47f,2026-09-21,2026-09-21T05:19:07.197Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_7ef970e09426,2026-09-21,2026-09-21T07:01:20.498Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_50f3661f758c,2026-09-21,2026-09-21T08:20:54.810Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_21fc1f0fad9b,2026-09-21,2026-09-21T09:31:16.755Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_46327f2e3c15,2026-09-21,2026-09-21T11:02:43.529Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_d81e9b0ebe4a,2026-09-21,2026-09-21T12:15:19.291Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_619c05804067,2026-09-21,2026-09-21T13:15:14.018Z,who is currently considered the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_62955a017993,2026-09-21,2026-09-21T13:15:59.368Z,who is currently considered the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,7
+ctr_a63f0e3ed4f5,2026-09-21,2026-09-21T13:16:40.345Z,who are the contenders for king of aeo,weekly,ChatGPT,US,en,true,false,David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Patrick Schmid|Stephane Morera|Vithurs,James Dooley,true,true,13
+ctr_01e215999c94,2026-09-21,2026-09-21T13:18:13.378Z,who is the king of aeo,weekly,ChatGPT,US,en,true,false,David Quaid|Jacky Chou|James Dooley|Julian Goldie,James Dooley,false,false,3
+ctr_c6a8cf76a259,2026-09-21,2026-09-21T13:22:23.209Z,king of aeo contenders list,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,6
+ctr_10db100ad703,2026-09-21,2026-09-21T13:22:27.534Z,has the king of aeo changed,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,4
+ctr_3ef94bb3543e,2026-09-21,2026-09-21T13:22:44.604Z,AEO king,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,3
+ctr_adee0e1aae3d,2026-09-21,2026-09-21T13:26:44.989Z,king of aeo contenders list,weekly,ChatGPT,US,en,true,false,David Quaid|Jacky Chou|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,12
+ctr_c4458107254a,2026-09-21,2026-09-21T13:29:49.012Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_e6c0770c4a86,2026-09-21,2026-09-21T13:31:01.718Z,king of aeo contenders list,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,3
+ctr_36e2dbb1ceb0,2026-09-21,2026-09-21T13:33:03.850Z,has the king of aeo changed,weekly,ChatGPT,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_c561333fcbef,2026-09-21,2026-09-21T13:38:05.852Z,AEO king,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,4
+ctr_495d67bf85ae,2026-09-21,2026-09-21T13:38:12.985Z,king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_2e7ab1ce013d,2026-09-21,2026-09-21T13:50:03.809Z,king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_909d7bce200e,2026-09-21,2026-09-21T13:51:13.038Z,king of aeo,weekly,ChatGPT,US,en,true,false,James Dooley|Vithurs,Vithurs,false,false,12
+ctr_888d979f82bc,2026-09-21,2026-09-21T13:54:14.698Z,who is currently considered the king of aeo,weekly,ChatGPT,US,en,true,false,David Quaid|Julian Goldie|Vithurs,Vithurs,false,false,4
+ctr_cc30eff15b31,2026-09-21,2026-09-21T13:54:32.105Z,who holds the king of aeo title now,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Stephane Morera|Vithurs,James Dooley,false,false,13
+ctr_00da0eae9e5c,2026-09-21,2026-09-21T13:55:44.506Z,who are the contenders for king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,3
+ctr_ae8af6ec78bf,2026-09-21,2026-09-21T13:56:07.372Z,who is the king of aeo,weekly,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_d0c84df1b247,2026-09-21,2026-09-21T14:02:39.346Z,who is the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,4
+ctr_5e73410d56fd,2026-09-21,2026-09-21T14:04:15.611Z,who are the contenders for king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_59db482152a2,2026-09-21,2026-09-21T14:17:35.423Z,who holds the king of aeo title now,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Vithurs,Vithurs,false,false,4
+ctr_8f119bc3c215,2026-09-21,2026-09-21T14:17:52.325Z,has the king of aeo changed,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,9
+ctr_420157984e00,2026-09-21,2026-09-21T14:23:14.878Z,who holds the king of aeo title now,weekly,ChatGPT,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,3
+ctr_29ed7e048c7e,2026-09-21,2026-09-21T14:24:16.188Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_2eba0ef61fd3,2026-09-21,2026-09-21T14:27:09.553Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,7
+ctr_3897a6ce36f0,2026-09-21,2026-09-21T14:28:08.699Z,AEO king,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,4
+ctr_7404f54e85fa,2026-09-21,2026-09-21T16:07:11.749Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_57681c5bf51b,2026-09-21,2026-09-21T18:20:09.014Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_f0fa736f724b,2026-09-21,2026-09-21T19:24:33.743Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_b921b1a44bd9,2026-09-21,2026-09-21T20:16:32.198Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_a860fcaa0aef,2026-09-21,2026-09-21T21:25:24.702Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_b87549d625da,2026-09-21,2026-09-21T22:15:17.206Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,6
+ctr_8c8fd5889e1c,2026-09-21,2026-09-21T23:13:58.680Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_c5bcc6f60c68,2026-09-22,2026-09-22T00:15:31.469Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_f494b13c35c6,2026-09-22,2026-09-22T01:43:23.709Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_da4f5b1a5dca,2026-09-22,2026-09-22T02:15:18.820Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_c3f5ef0d3a24,2026-09-22,2026-09-22T03:32:30.825Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_1f4b8cebba53,2026-09-22,2026-09-22T04:13:45.723Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_528a59ef5ff1,2026-09-22,2026-09-22T05:14:00.785Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_b1e4be248b92,2026-09-22,2026-09-22T06:28:30.713Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_cada80243b24,2026-09-22,2026-09-22T08:00:59.695Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_0d779f5a9cab,2026-09-22,2026-09-22T09:44:41.687Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_d269d8aa6cca,2026-09-22,2026-09-22T10:49:32.809Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_ff804900fb25,2026-09-22,2026-09-22T11:51:02.746Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_7f1c69b43216,2026-09-22,2026-09-22T14:39:47.102Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_3c909cfe2ee0,2026-09-22,2026-09-22T14:57:21.426Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_a4b10550ab57,2026-09-22,2026-09-22T16:22:05.770Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,0
+ctr_8f2416bd3a1b,2026-09-22,2026-09-22T19:01:14.641Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_04310b106771,2026-09-22,2026-09-22T21:40:37.292Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_6d1a1c2c9dca,2026-09-22,2026-09-22T22:48:42.354Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_fb06bc66928a,2026-09-22,2026-09-22T23:24:02.592Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_4f8a8e58e33f,2026-09-23,2026-09-23T00:56:39.033Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_ebbd3be3f53d,2026-09-23,2026-09-23T01:06:16.706Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_f0b4cacc9ca5,2026-09-23,2026-09-23T02:27:32.249Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_3dc7432fd3aa,2026-09-23,2026-09-23T03:20:08.437Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_b1e0bd288e4f,2026-09-23,2026-09-23T04:15:28.522Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_ac72e10a70d8,2026-09-23,2026-09-23T05:20:26.748Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_6a5a2916466a,2026-09-23,2026-09-23T06:31:21.875Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_7cb3fdb7f042,2026-09-23,2026-09-23T07:32:58.314Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_b288431d385c,2026-09-23,2026-09-23T08:53:44.395Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_8e1b898dbb9d,2026-09-23,2026-09-23T10:04:06.040Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_2d3708049ee5,2026-09-23,2026-09-23T11:52:37.728Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_f1308f64185f,2026-09-23,2026-09-23T12:47:23.413Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_1a391230f7c8,2026-09-23,2026-09-23T13:16:43.413Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,0
+ctr_37aff14567d5,2026-09-23,2026-09-23T13:26:57.529Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,4
+ctr_4c21f1182ffc,2026-09-23,2026-09-23T13:42:39.900Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_33ae269aa59e,2026-09-23,2026-09-23T15:15:57.629Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_dc26dd651c28,2026-09-23,2026-09-23T16:30:27.992Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_72243941a31d,2026-09-23,2026-09-23T17:23:43.719Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_5c6922503b52,2026-09-23,2026-09-23T18:15:34.432Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_f23da385428c,2026-09-23,2026-09-23T19:27:55.756Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_4307f13e5f0c,2026-09-23,2026-09-23T20:19:14.821Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_d44e490c126a,2026-09-23,2026-09-23T21:18:57.902Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_be83c70ba4a9,2026-09-23,2026-09-23T22:15:21.423Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_b6577f0e31de,2026-09-23,2026-09-23T23:12:49.708Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_438f292598eb,2026-09-24,2026-09-24T00:17:27.616Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_64968c9d0080,2026-09-24,2026-09-24T01:12:08.018Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_c4f56a54dccf,2026-09-24,2026-09-24T02:28:20.335Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_6e4adefb1166,2026-09-24,2026-09-24T03:21:01.627Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_2bed4994c4cc,2026-09-24,2026-09-24T04:20:45.365Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_35ee28df6e1a,2026-09-24,2026-09-24T05:17:50.801Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_c4524afd24ea,2026-09-24,2026-09-24T06:29:49.430Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_0c2af3489761,2026-09-24,2026-09-24T07:42:56.385Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_d7a207405f21,2026-09-24,2026-09-24T08:26:09.686Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_d258487d9b86,2026-09-24,2026-09-24T09:15:43.574Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_12d19a71650f,2026-09-24,2026-09-24T11:24:14.856Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_7a0d85927c01,2026-09-24,2026-09-24T13:11:16.017Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_78666dc648b9,2026-09-24,2026-09-24T14:02:49.369Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,James Dooley|Vithurs,James Dooley,false,false,4
+ctr_000a6ed56731,2026-09-24,2026-09-24T15:20:49.252Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_56f7163b495f,2026-09-24,2026-09-24T15:57:26.427Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_7003523cabc9,2026-09-24,2026-09-24T17:59:08.003Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_885fbaa506f2,2026-09-24,2026-09-24T18:34:53.667Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_ab8711eb6575,2026-09-24,2026-09-24T19:45:38.221Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_cd18c9939a40,2026-09-24,2026-09-24T20:14:07.018Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_b8458e14776f,2026-09-24,2026-09-24T21:16:20.571Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_a5d0b0b81802,2026-09-24,2026-09-24T22:16:42.167Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_62008dac2dbd,2026-09-24,2026-09-24T23:16:32.782Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_38e457977870,2026-09-25,2026-09-25T00:15:13.196Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_79a5c281ed80,2026-09-25,2026-09-25T01:18:04.881Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_98272e749392,2026-09-25,2026-09-25T02:47:07.659Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_ba0549b60893,2026-09-25,2026-09-25T03:26:38.119Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_2c441c6c1b7e,2026-09-25,2026-09-25T04:58:34.473Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_9ffd47e5bcbe,2026-09-25,2026-09-25T05:47:17.456Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_ff1897e2c57c,2026-09-25,2026-09-25T06:57:24.790Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_8b1f880c6827,2026-09-25,2026-09-25T09:00:00.209Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_542c92fbfb7f,2026-09-25,2026-09-25T13:36:22.557Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_6f08d1cfd7fa,2026-09-25,2026-09-25T15:30:52.251Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,James Dooley|Vithurs,James Dooley,false,false,4
+ctr_09cbf93027cd,2026-09-25,2026-09-25T15:52:25.162Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,7
+ctr_b632f859c4da,2026-09-25,2026-09-25T15:59:33.497Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,3
+ctr_4701022b6ed8,2026-09-25,2026-09-25T17:31:11.576Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_b0af7bd3d083,2026-09-25,2026-09-25T18:35:13.359Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_4ac5e8163d11,2026-09-25,2026-09-25T19:53:08.085Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_dd88e4b80ede,2026-09-25,2026-09-25T20:49:40.194Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_966d086def0d,2026-09-25,2026-09-25T21:17:42.841Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_ffd5580c25a4,2026-09-25,2026-09-25T22:18:28.397Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_ba6ab54857b9,2026-09-25,2026-09-25T23:18:30.702Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_03d679376065,2026-09-26,2026-09-26T00:15:38.474Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_6e265c622d50,2026-09-26,2026-09-26T01:12:48.417Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,13
+ctr_5481f498e62a,2026-09-26,2026-09-26T02:13:48.990Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_200188f04e5e,2026-09-26,2026-09-26T03:13:11.226Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_4000face2d52,2026-09-26,2026-09-26T04:15:09.419Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_d32f32607f4b,2026-09-26,2026-09-26T05:13:28.941Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_53517e873c48,2026-09-26,2026-09-26T06:22:09.775Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,5
+ctr_ce423ab91777,2026-09-26,2026-09-26T07:20:38.101Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley,James Dooley,false,false,8
+ctr_19878deeebad,2026-09-26,2026-09-26T08:51:35.274Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_660c0ff4321f,2026-09-26,2026-09-26T10:01:23.529Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_acb3001cdf7f,2026-09-26,2026-09-26T12:15:39.269Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_4ffb6fa1704a,2026-09-26,2026-09-26T15:14:02.631Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_049243f235b8,2026-09-26,2026-09-26T15:16:19.521Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_9883000cc63c,2026-09-26,2026-09-26T16:09:40.304Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_b5f690dccd7c,2026-09-26,2026-09-26T17:07:52.127Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_32c38c715a55,2026-09-26,2026-09-26T18:46:32.835Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,10
+ctr_3afd7a72e4fd,2026-09-26,2026-09-26T19:18:39.047Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_40a5af7f9f84,2026-09-26,2026-09-26T20:44:28.793Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_5607453b7bb1,2026-09-26,2026-09-26T21:46:19.859Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_e3cc4c54cb0a,2026-09-26,2026-09-26T22:44:09.421Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_b1d9afc447a7,2026-09-26,2026-09-26T23:14:54.236Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_d7c1e3491991,2026-09-27,2026-09-27T00:12:59.070Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,0
+ctr_99b6ef300cb5,2026-09-27,2026-09-27T01:13:31.433Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,0
+ctr_2e2eb8790455,2026-09-27,2026-09-27T02:15:24.920Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,0
+ctr_e54519f5a597,2026-09-27,2026-09-27T03:11:27.559Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_37780a45e72e,2026-09-27,2026-09-27T04:12:17.290Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_44c3a4fe7797,2026-09-27,2026-09-27T05:11:11.008Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_e96f0fe1ded5,2026-09-27,2026-09-27T06:19:32.517Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,David Quaid,false,false,4
+ctr_9456a9f64f25,2026-09-27,2026-09-27T07:15:57.280Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley,James Dooley,false,false,7
+ctr_3b41bb104430,2026-09-27,2026-09-27T08:27:00.814Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_cacc282e4f18,2026-09-27,2026-09-27T09:21:54.739Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_098042a719d0,2026-09-27,2026-09-27T10:15:02.006Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,0
+ctr_07b102c36a48,2026-09-27,2026-09-27T11:16:25.735Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,0
+ctr_1b895089c63c,2026-09-27,2026-09-27T12:15:11.184Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_d202e63902d9,2026-09-27,2026-09-27T13:17:15.902Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_5c31a9e57f98,2026-09-27,2026-09-27T13:17:21.755Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,5
+ctr_1783adcda779,2026-09-27,2026-09-27T13:24:59.407Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,4
+ctr_5a6f239c9acd,2026-09-27,2026-09-27T14:27:45.659Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_b86bfa30fa6c,2026-09-27,2026-09-27T15:36:41.946Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_f8ad4a9699af,2026-09-27,2026-09-27T16:26:27.652Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,9
+ctr_c8f81127af8c,2026-09-27,2026-09-27T17:13:20.538Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_1dcf68ba2639,2026-09-27,2026-09-27T18:12:28.805Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_c760d393c953,2026-09-27,2026-09-27T19:16:17.398Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_f263efeaacc4,2026-09-27,2026-09-27T20:23:28.514Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_c02022cb0baa,2026-09-27,2026-09-27T21:15:23.069Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_a159095a38eb,2026-09-27,2026-09-27T22:14:00.882Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_0a680f49271c,2026-09-27,2026-09-27T23:14:15.149Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_40d7dff5e654,2026-09-28,2026-09-28T00:17:57.120Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_58be526ddbd4,2026-09-28,2026-09-28T01:16:15.011Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_53c09cb5591c,2026-09-28,2026-09-28T02:26:27.737Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_136e153251af,2026-09-28,2026-09-28T03:27:10.892Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_6c5708c5f094,2026-09-28,2026-09-28T04:13:35.806Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_97953bfaae51,2026-09-28,2026-09-28T05:37:55.187Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_3ca622efa983,2026-09-28,2026-09-28T06:13:47.316Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_b68f8087fa0e,2026-09-28,2026-09-28T07:32:57.760Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_5a97c73fa8a4,2026-09-28,2026-09-28T08:43:49.803Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_9ada20a9d5d8,2026-09-28,2026-09-28T10:55:54.166Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_11646e6f8783,2026-09-28,2026-09-28T12:27:59.347Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_e2a6e22ad605,2026-09-28,2026-09-28T14:08:28.071Z,who are the contenders for king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_32343663e60b,2026-09-28,2026-09-28T14:09:45.078Z,who holds the king of aeo title now,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,5
+ctr_a10aa5d082e9,2026-09-28,2026-09-28T14:16:17.259Z,who is the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_fcff2c902748,2026-09-28,2026-09-28T14:17:27.957Z,king of aeo contenders list,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,12
+ctr_d9875900314e,2026-09-28,2026-09-28T14:17:38.143Z,who are the contenders for king of aeo,weekly,ChatGPT,US,en,true,false,,,false,false,6
+ctr_a3dcab5b8d22,2026-09-28,2026-09-28T14:17:55.432Z,who is currently considered the king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|Edward Sturm|James Dooley|Vithurs,Vithurs,false,false,24
+ctr_5d6cbb304323,2026-09-28,2026-09-28T14:18:03.747Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_4dfad1f6098d,2026-09-28,2026-09-28T14:19:41.029Z,has the king of aeo changed,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_bfcabe1b6138,2026-09-28,2026-09-28T14:19:45.636Z,AEO king,weekly,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,8
+ctr_c6764f0f21f4,2026-09-28,2026-09-28T14:19:52.887Z,who is currently considered the king of aeo,weekly,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_e7ed3b27175f,2026-09-28,2026-09-28T14:22:54.974Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_2654d4aa879f,2026-09-28,2026-09-28T14:27:55.734Z,who is currently considered the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,2
+ctr_e5d60db796aa,2026-09-28,2026-09-28T14:29:30.107Z,king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_a99e183f65e5,2026-09-28,2026-09-28T14:36:20.131Z,has the king of aeo changed,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_d166d3acb690,2026-09-28,2026-09-28T14:37:10.306Z,king of aeo contenders list,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_26ab44076dfc,2026-09-28,2026-09-28T14:39:46.229Z,who holds the king of aeo title now,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_4f2adbe55114,2026-09-28,2026-09-28T14:47:48.260Z,king of aeo contenders list,weekly,Google AI Mode,US,en,true,false,,,false,false,5
+ctr_021b099048a1,2026-09-28,2026-09-28T14:50:17.663Z,king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_926900872836,2026-09-28,2026-09-28T15:05:27.756Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_00afc3bc6341,2026-09-28,2026-09-28T15:05:42.031Z,who holds the king of aeo title now,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley|Vithurs,Vithurs,false,false,13
+ctr_f569bf854b8c,2026-09-28,2026-09-28T15:09:02.205Z,king of aeo,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,2
+ctr_0f0d95ee7bde,2026-09-28,2026-09-28T15:11:11.655Z,has the king of aeo changed,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|James Dooley,James Dooley,false,false,4
+ctr_93f3a55c56da,2026-09-28,2026-09-28T15:12:25.878Z,who is the king of aeo,weekly,ChatGPT,US,en,true,false,James Dooley|Vithurs,James Dooley,false,true,23
+ctr_12e516c6e471,2026-09-28,2026-09-28T15:12:32.678Z,AEO king,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,20
+ctr_943aa9487a42,2026-09-28,2026-09-28T15:15:09.072Z,AEO king,weekly,Google AI Mode,US,en,true,false,James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_048d1961216c,2026-09-28,2026-09-28T15:18:39.682Z,who is the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_564c7180b124,2026-09-28,2026-09-28T15:32:52.683Z,who are the contenders for king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,4
+ctr_2c04ac0ecd6e,2026-09-28,2026-09-28T17:25:10.804Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_8c8891053781,2026-09-28,2026-09-28T18:54:28.845Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_d3784665340f,2026-09-28,2026-09-28T19:39:23.191Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_21febbe4ae63,2026-09-28,2026-09-28T20:35:20.217Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_6ed95c8d122f,2026-09-28,2026-09-28T21:29:57.084Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_a2e14b9f880c,2026-09-28,2026-09-28T22:19:07.792Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_d4a526d65ee1,2026-09-28,2026-09-28T23:17:07.389Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_32bbbf78f287,2026-09-29,2026-09-29T00:23:24.969Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_77f11bf15399,2026-09-29,2026-09-29T02:17:42.236Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_b3c9a32cdf12,2026-09-29,2026-09-29T03:22:08.515Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_b116eb4c8195,2026-09-29,2026-09-29T04:19:49.315Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_2fdc56b1da11,2026-09-29,2026-09-29T05:22:51.154Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_cef4a3375e37,2026-09-29,2026-09-29T06:31:12.219Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_d7c08178ce98,2026-09-29,2026-09-29T07:22:11.842Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_7ee5aa60ae16,2026-09-29,2026-09-29T08:41:17.051Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_196bc5a7bddb,2026-09-29,2026-09-29T10:01:24.106Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_0976d3b04a1a,2026-09-29,2026-09-29T11:18:40.365Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_969c114c9965,2026-09-29,2026-09-29T12:50:35.680Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_df069ad62808,2026-09-29,2026-09-29T13:25:02.727Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_566a4637c1b6,2026-09-29,2026-09-29T13:44:32.840Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_40aaf7ac11df,2026-09-29,2026-09-29T13:52:29.688Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_6c78c0388ceb,2026-09-29,2026-09-29T14:45:32.991Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_97536277c062,2026-09-29,2026-09-29T15:50:30.125Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_d56dd172ba52,2026-09-29,2026-09-29T17:58:22.123Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_50d1605c901d,2026-09-29,2026-09-29T18:54:34.479Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_3385cb777dac,2026-09-29,2026-09-29T19:26:13.334Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_84d99049e3b4,2026-09-29,2026-09-29T20:15:40.852Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_9e5cdc36acb6,2026-09-29,2026-09-29T21:44:10.085Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_5990d98f57f4,2026-09-29,2026-09-29T22:05:46.048Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_86da10c6a0e6,2026-09-30,2026-09-30T00:03:04.165Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_a8a84c26c296,2026-09-30,2026-09-30T01:18:30.101Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_9d70ff8a8765,2026-09-30,2026-09-30T02:18:01.215Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_f073038c6b92,2026-09-30,2026-09-30T03:19:30.116Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_7f5e9e67fa2c,2026-09-30,2026-09-30T04:19:53.138Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_171605c47f2a,2026-09-30,2026-09-30T05:15:20.732Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_9a01190d0082,2026-09-30,2026-09-30T06:44:51.739Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,8
+ctr_135801317df4,2026-09-30,2026-09-30T07:26:56.297Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_b7545de463c2,2026-09-30,2026-09-30T08:50:29.632Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_81e49ef0e63b,2026-09-30,2026-09-30T09:31:47.829Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e9907b3ad28d,2026-09-30,2026-09-30T10:02:54.461Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_537138b9bad0,2026-09-30,2026-09-30T12:48:23.833Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_b28e4a7b15a9,2026-09-30,2026-09-30T14:16:25.500Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_4dbc48affd9b,2026-09-30,2026-09-30T14:31:59.130Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_aac9a9fc682c,2026-09-30,2026-09-30T14:36:42.097Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_3ec4f6ce2c84,2026-09-30,2026-09-30T16:37:13.253Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_6d6dad71689b,2026-09-30,2026-09-30T17:28:48.144Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_77a8ba97b0e2,2026-09-30,2026-09-30T18:30:15.266Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_d5e47bb59641,2026-09-30,2026-09-30T19:18:24.141Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_599fb1099206,2026-09-30,2026-09-30T20:21:46.055Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_791cff78f4db,2026-09-30,2026-09-30T21:20:59.856Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_aedd1ad7f051,2026-09-30,2026-09-30T22:17:48.401Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_70238be876ff,2026-09-30,2026-09-30T23:15:28.809Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_7861fa731675,2026-10-01,2026-10-01T00:49:19.704Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_d77ed4c9ea2f,2026-10-01,2026-10-01T01:15:45.324Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,9
+ctr_ce1e39124927,2026-10-01,2026-10-01T02:30:04.620Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_26c990481647,2026-10-01,2026-10-01T03:16:09.263Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_c2b7f3fa641b,2026-10-01,2026-10-01T04:22:49.623Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_ce7f7b330041,2026-10-01,2026-10-01T05:25:12.330Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_5c2241d9170a,2026-10-01,2026-10-01T06:23:19.671Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_3d4942b27fb1,2026-10-01,2026-10-01T07:27:34.478Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_002c1bab47db,2026-10-01,2026-10-01T08:54:45.505Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_24415a170461,2026-10-01,2026-10-01T09:47:57.178Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_8864680c6423,2026-10-01,2026-10-01T10:01:37.954Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_79d9d3f295fc,2026-10-01,2026-10-01T11:51:31.373Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_d17ab515fd7b,2026-10-01,2026-10-01T13:50:57.187Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_4738cfc3fa4a,2026-10-01,2026-10-01T15:32:51.818Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_ea29ac8d9cc5,2026-10-01,2026-10-01T15:51:22.719Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,7
+ctr_6319149e0cc9,2026-10-01,2026-10-01T16:33:57.996Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,5
+ctr_6e9aa33c9d99,2026-10-01,2026-10-01T20:18:35.598Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_2ff9fdc01655,2026-10-01,2026-10-01T22:28:19.992Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_4f692096b1d8,2026-10-01,2026-10-01T23:23:44.213Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_c150f2b7bf0d,2026-10-02,2026-10-02T00:27:18.021Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_ff6655f59db2,2026-10-02,2026-10-02T01:17:03.768Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_086ad411af1b,2026-10-02,2026-10-02T02:36:15.251Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_3bc86cbcec9c,2026-10-02,2026-10-02T03:26:59.883Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_ac70d9d69aff,2026-10-02,2026-10-02T04:40:39.159Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_100e537a046c,2026-10-02,2026-10-02T05:52:00.489Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_80ec347ac45e,2026-10-02,2026-10-02T06:57:37.016Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_78db369fbeb1,2026-10-02,2026-10-02T07:02:18.002Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_f78f055b7500,2026-10-02,2026-10-02T10:15:09.053Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_697946a61637,2026-10-02,2026-10-02T16:03:36.924Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,7
+ctr_73106ffb2291,2026-10-02,2026-10-02T17:42:49.107Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_53b2044d3575,2026-10-02,2026-10-02T18:11:21.657Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_9a4c254fe649,2026-10-02,2026-10-02T21:26:46.522Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,7
+ctr_5c89e8f432b1,2026-10-02,2026-10-02T23:17:31.433Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,8
+ctr_a9edb6e92741,2026-10-03,2026-10-03T00:15:48.877Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_b918e5a4d65b,2026-10-03,2026-10-03T01:32:01.315Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_fceae80e4d6b,2026-10-03,2026-10-03T02:23:45.204Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,8
+ctr_6e3fc157c363,2026-10-03,2026-10-03T03:14:25.208Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_dade9fdb9d37,2026-10-03,2026-10-03T04:13:07.080Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_d6452373c65b,2026-10-03,2026-10-03T05:19:22.126Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_f81abe30d75f,2026-10-03,2026-10-03T06:18:44.137Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_e89a2b8d5c27,2026-10-03,2026-10-03T07:30:06.410Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_8d9d8b7c4a00,2026-10-03,2026-10-03T08:19:35.735Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_ce7e259b3a40,2026-10-03,2026-10-03T09:24:37.229Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_67211ef70df9,2026-10-03,2026-10-03T10:16:59.474Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_2463577ae7b5,2026-10-03,2026-10-03T11:14:35.621Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_dc6c628d758a,2026-10-03,2026-10-03T12:30:49.030Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_4e28688af770,2026-10-03,2026-10-03T13:23:27.616Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_0559684b80ba,2026-10-03,2026-10-03T13:24:43.291Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_651746aa0953,2026-10-03,2026-10-03T13:38:42.541Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_114963f9a032,2026-10-03,2026-10-03T14:24:13.690Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_08718b7cec74,2026-10-03,2026-10-03T15:14:07.854Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_97dc814dca71,2026-10-03,2026-10-03T16:28:41.163Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_231d4105f458,2026-10-03,2026-10-03T17:21:03.826Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_7ac6891d2712,2026-10-03,2026-10-03T18:16:50.137Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_aec06803a7b0,2026-10-03,2026-10-03T19:29:24.129Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,9
+ctr_f3428623e076,2026-10-03,2026-10-03T20:16:29.619Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_93027c10bd45,2026-10-03,2026-10-03T21:16:12.715Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_396dfd5b5d10,2026-10-03,2026-10-03T22:14:10.311Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_fb28c9cc7f6e,2026-10-03,2026-10-03T23:15:20.792Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_c5fda1e47fbe,2026-10-04,2026-10-04T00:14:37.819Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_52b2e64a70ff,2026-10-04,2026-10-04T01:15:06.269Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_43af3a20a025,2026-10-04,2026-10-04T02:23:09.079Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_45bd6279322f,2026-10-04,2026-10-04T03:14:49.728Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_8ea823e266f5,2026-10-04,2026-10-04T04:14:33.856Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_a77c1be0514d,2026-10-04,2026-10-04T05:26:32.330Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_905258875cf9,2026-10-04,2026-10-04T06:20:53.865Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_a01dabecdd20,2026-10-04,2026-10-04T07:25:57.255Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,5
+ctr_4ed53c5bf0ac,2026-10-04,2026-10-04T08:20:03.934Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_5804826285a1,2026-10-04,2026-10-04T09:37:50.330Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,5
+ctr_d730f20466c0,2026-10-04,2026-10-04T10:17:47.063Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_86a531b5f2a1,2026-10-04,2026-10-04T11:40:50.276Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_30033c1ab46f,2026-10-04,2026-10-04T12:33:31.434Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_f3b550902553,2026-10-04,2026-10-04T13:23:38.234Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_acccb12bfffe,2026-10-04,2026-10-04T13:24:59.269Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,5
+ctr_69f1e5d6a7b3,2026-10-04,2026-10-04T13:39:27.290Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,5
+ctr_a29d36140ddc,2026-10-04,2026-10-04T14:21:44.914Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_791f5254a790,2026-10-04,2026-10-04T15:16:50.837Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_1346ad4789d0,2026-10-04,2026-10-04T16:21:25.100Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_a5ba05c123a7,2026-10-04,2026-10-04T17:27:10.818Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_3b1786ec0020,2026-10-04,2026-10-04T18:19:53.328Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_4a655002622e,2026-10-04,2026-10-04T19:15:12.264Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_5c1f44854711,2026-10-04,2026-10-04T20:38:24.550Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_1bfe25190111,2026-10-04,2026-10-04T21:28:12.645Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_3769229dda88,2026-10-04,2026-10-04T22:15:20.267Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_092d8c388ac1,2026-10-04,2026-10-04T23:15:47.362Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_96f805820cbc,2026-10-05,2026-10-05T00:21:26.049Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_6fc34d02b76e,2026-10-05,2026-10-05T01:16:15.351Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,6
+ctr_52c8e1a5d815,2026-10-05,2026-10-05T02:34:52.609Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_a9f842608480,2026-10-05,2026-10-05T03:30:22.970Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_cb6cd2227558,2026-10-05,2026-10-05T04:24:15.752Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_0ad3b1d4dbe8,2026-10-05,2026-10-05T05:33:27.880Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_a0a97fa6928f,2026-10-05,2026-10-05T07:02:09.770Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_1392c7d9abf5,2026-10-05,2026-10-05T09:15:37.056Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_78ace33b2fd1,2026-10-05,2026-10-05T11:31:12.444Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_b15c6cbb708e,2026-10-05,2026-10-05T14:00:14.304Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_61e428f5d72d,2026-10-05,2026-10-05T14:05:30.074Z,who holds the king of aeo title now,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_b12f453e91cf,2026-10-05,2026-10-05T14:06:49.404Z,has the king of aeo changed,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,2
+ctr_c54f1e301786,2026-10-05,2026-10-05T14:08:08.266Z,who is currently considered the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_15b88dc859a5,2026-10-05,2026-10-05T14:08:10.833Z,king of aeo contenders list,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,11
+ctr_071c7a7a9d97,2026-10-05,2026-10-05T14:10:06.847Z,king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_f24d057bdc1b,2026-10-05,2026-10-05T14:18:38.023Z,king of aeo contenders list,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Patrick Schmid|Stephane Morera|Vithurs,James Dooley,true,false,31
+ctr_e35ade82dcdd,2026-10-05,2026-10-05T14:20:42.022Z,has the king of aeo changed,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_87c2b88e3afc,2026-10-05,2026-10-05T14:24:53.696Z,who are the contenders for king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,David Quaid,false,false,4
+ctr_10cc8c88f393,2026-10-05,2026-10-05T14:27:02.965Z,AEO king,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,David Quaid,false,false,6
+ctr_0685dfca1850,2026-10-05,2026-10-05T14:29:37.698Z,who is currently considered the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,3
+ctr_e0d437eb19d6,2026-10-05,2026-10-05T14:50:15.987Z,who are the contenders for king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,9
+ctr_89ca7fc01bdf,2026-10-05,2026-10-05T14:54:22.738Z,king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_f2886a572b2d,2026-10-05,2026-10-05T14:57:53.757Z,who is currently considered the king of aeo,weekly,ChatGPT,US,en,true,false,James Dooley|Vithurs,Vithurs,false,false,24
+ctr_63b20043d370,2026-10-05,2026-10-05T14:59:00.308Z,who holds the king of aeo title now,weekly,ChatGPT,US,en,true,false,Allan Oliveira|Jacky Chou|James Dooley|Stephane Morera|Vithurs,James Dooley,false,false,10
+ctr_6b9d419b8657,2026-10-05,2026-10-05T15:02:24.728Z,AEO king,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_67633bf5880e,2026-10-05,2026-10-05T15:06:29.064Z,who holds the king of aeo title now,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,Vithurs,false,false,5
+ctr_8ed51d8486b2,2026-10-05,2026-10-05T15:07:26.542Z,who is the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,3
+ctr_12069fa7a564,2026-10-05,2026-10-05T15:08:15.346Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,11
+ctr_68d2bec0d909,2026-10-05,2026-10-05T15:08:20.553Z,king of aeo contenders list,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,2
+ctr_26cfdcac7394,2026-10-05,2026-10-05T16:13:02.770Z,has the king of aeo changed,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Vithurs,James Dooley,false,false,10
+ctr_22718f1fe840,2026-10-05,2026-10-05T16:18:17.562Z,king of aeo,weekly,ChatGPT,US,en,true,false,,,false,false,0
+ctr_f30f3c51b5ca,2026-10-05,2026-10-05T16:29:59.502Z,who is the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_a9fe10d86a32,2026-10-05,2026-10-05T16:32:49.092Z,who is the king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley|Vithurs,Vithurs,false,false,24
+ctr_88090b8fdcc7,2026-10-05,2026-10-05T16:39:11.648Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_40525e746d3f,2026-10-05,2026-10-05T16:40:59.669Z,AEO king,weekly,ChatGPT,US,en,true,false,Vithurs,Vithurs,false,false,12
+ctr_c16f9533787b,2026-10-05,2026-10-05T16:54:20.039Z,who are the contenders for king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,19
+ctr_7ac61fd81042,2026-10-05,2026-10-05T20:23:20.693Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_6dd9d9461a44,2026-10-06,2026-10-06T00:19:35.598Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_d2af885af5f7,2026-10-06,2026-10-06T01:47:40.816Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_9d98fe17b3f4,2026-10-06,2026-10-06T02:01:18.235Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_81a047e1bdd2,2026-10-06,2026-10-06T03:17:16.027Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_2b381c1fd9ee,2026-10-06,2026-10-06T04:19:06.977Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_d852a3ab453e,2026-10-06,2026-10-06T05:29:17.356Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_337c98d99031,2026-10-06,2026-10-06T06:25:23.207Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_c295a9d8f6a4,2026-10-06,2026-10-06T07:35:31.835Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_367fde027223,2026-10-06,2026-10-06T09:04:08.238Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_9b985a4442f0,2026-10-06,2026-10-06T11:25:09.143Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_066a1a4e9976,2026-10-06,2026-10-06T14:10:31.195Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_4a49f79b7e56,2026-10-06,2026-10-06T15:56:17.003Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,11
+ctr_932dbcc2b818,2026-10-06,2026-10-06T16:36:37.805Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_11bf71576040,2026-10-06,2026-10-06T19:39:52.043Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_9b2f90c20caf,2026-10-07,2026-10-07T00:15:03.432Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_001a43cd90e9,2026-10-07,2026-10-07T02:38:52.322Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_cdf605b75466,2026-10-07,2026-10-07T03:17:07.076Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_150f15048323,2026-10-07,2026-10-07T04:16:13.650Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_4329f6656164,2026-10-07,2026-10-07T05:48:49.519Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_54f21c436c62,2026-10-07,2026-10-07T06:45:57.268Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_87cc12318383,2026-10-07,2026-10-07T07:40:24.881Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_9f67eca2dbfb,2026-10-07,2026-10-07T08:41:08.392Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_df8100452bd5,2026-10-07,2026-10-07T10:39:15.575Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_3029f05b6922,2026-10-07,2026-10-07T12:31:14.353Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_f25aeb9072ae,2026-10-07,2026-10-07T13:27:55.545Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_184397e5167c,2026-10-07,2026-10-07T13:52:46.517Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,11
+ctr_881292c7e215,2026-10-07,2026-10-07T13:55:41.011Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,5
+ctr_7e4fa527090a,2026-10-07,2026-10-07T16:12:46.231Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_b8b0a4bf3555,2026-10-07,2026-10-07T17:36:33.434Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_57bdc255d4e1,2026-10-07,2026-10-07T18:20:12.792Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_5c44e57d6944,2026-10-07,2026-10-07T19:32:45.636Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_5bf2671c7e6b,2026-10-07,2026-10-07T20:24:15.355Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_74fc68741830,2026-10-07,2026-10-07T21:15:45.939Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_091e83eb509c,2026-10-07,2026-10-07T22:15:27.634Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_401415bc7c4e,2026-10-07,2026-10-07T23:17:01.889Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_dd7f69ea421a,2026-10-08,2026-10-08T00:17:03.269Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_1a7ac7a1d179,2026-10-08,2026-10-08T01:17:28.676Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_10e9118db8f9,2026-10-08,2026-10-08T02:15:31.939Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_cefcd86be487,2026-10-08,2026-10-08T03:16:56.511Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_39bd53f9a303,2026-10-08,2026-10-08T04:15:05.481Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_813652bee8c1,2026-10-08,2026-10-08T05:25:41.979Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_6abef87f7638,2026-10-08,2026-10-08T06:19:44.386Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_9a8d754cefd2,2026-10-08,2026-10-08T07:36:19.978Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_062d6d3dca60,2026-10-08,2026-10-08T08:30:11.255Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_f5c8be067c99,2026-10-08,2026-10-08T09:59:49.913Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_b58c3bf60a18,2026-10-08,2026-10-08T10:54:58.752Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_17f623767ae9,2026-10-08,2026-10-08T11:32:19.258Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_62a338a7048d,2026-10-08,2026-10-08T12:58:30.252Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_0411eab8c8e8,2026-10-08,2026-10-08T14:29:52.017Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_3b7ce1799d76,2026-10-08,2026-10-08T14:40:42.713Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Stephane Morera|Vithurs,James Dooley,false,false,5
+ctr_c6633a8b2692,2026-10-08,2026-10-08T14:41:41.195Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_86f848176d73,2026-10-08,2026-10-08T16:42:36.848Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_40d27ff93478,2026-10-08,2026-10-08T17:51:49.942Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_ccfb7a7ae7c9,2026-10-08,2026-10-08T18:29:27.620Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_7d918648403a,2026-10-08,2026-10-08T19:39:22.860Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_2feaaad5ab28,2026-10-08,2026-10-08T20:18:50.622Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_77f02ffb7178,2026-10-08,2026-10-08T21:14:02.624Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_76750309025d,2026-10-08,2026-10-08T22:21:06.879Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_92b44c1396ea,2026-10-08,2026-10-08T23:18:53.114Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_4e4dc6ed6d03,2026-10-09,2026-10-09T00:27:26.676Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_ca5aa03ef5c7,2026-10-09,2026-10-09T01:18:58.776Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_019c2ab18faa,2026-10-09,2026-10-09T02:24:40.261Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_573035ac1591,2026-10-09,2026-10-09T03:33:50.051Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_75cf6b388024,2026-10-09,2026-10-09T04:54:52.145Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_702d5a335a81,2026-10-09,2026-10-09T05:53:41.518Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_34949747fe12,2026-10-09,2026-10-09T06:37:54.303Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,6
+ctr_e9618fd257b7,2026-10-09,2026-10-09T07:04:16.726Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,6
+ctr_3e37f3a43230,2026-10-09,2026-10-09T10:16:43.150Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,6
+ctr_d1c0cd53f6e0,2026-10-09,2026-10-09T13:12:37.384Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_db41ccfba823,2026-10-09,2026-10-09T15:52:52.865Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_1a1a5dc3687a,2026-10-09,2026-10-09T15:56:37.827Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Stephane Morera|Vithurs,James Dooley,false,false,10
+ctr_c01108ea4440,2026-10-09,2026-10-09T16:56:06.553Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_fdff0e596eb6,2026-10-09,2026-10-09T18:55:45.981Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_1d2966740e9d,2026-10-09,2026-10-09T19:45:33.438Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_44621e92acb5,2026-10-09,2026-10-09T20:27:48.007Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_db379e625bbd,2026-10-09,2026-10-09T21:17:51.881Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_76838b944fb6,2026-10-09,2026-10-09T22:12:59.359Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_7f166e87549f,2026-10-09,2026-10-09T23:14:08.560Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,10
+ctr_ac200022df72,2026-10-10,2026-10-10T00:15:39.192Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_14f958172be3,2026-10-10,2026-10-10T01:12:53.210Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_65795192f0ee,2026-10-10,2026-10-10T02:14:47.003Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_d0806419c564,2026-10-10,2026-10-10T03:13:30.383Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_cfcc0617ad7c,2026-10-10,2026-10-10T04:13:41.462Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_914a1882ce4e,2026-10-10,2026-10-10T05:27:54.361Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_c6de3e3005ed,2026-10-10,2026-10-10T06:38:18.993Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_ff430404526c,2026-10-10,2026-10-10T07:29:32.695Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_aca6d6c5c0f8,2026-10-10,2026-10-10T08:19:02.568Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_084c788a8ebe,2026-10-10,2026-10-10T10:04:02.771Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_859934e547b4,2026-10-10,2026-10-10T11:19:24.838Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_3811b5d2808d,2026-10-10,2026-10-10T12:23:58.506Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_9ceb835a4c56,2026-10-10,2026-10-10T13:18:07.244Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_b9c348b6ee85,2026-10-10,2026-10-10T13:23:45.130Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Marc Moeller|Vithurs,James Dooley,false,false,7
+ctr_080259f2c080,2026-10-10,2026-10-10T13:32:36.292Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_1a46fde2cee8,2026-10-10,2026-10-10T14:36:39.610Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_64ecde6020e8,2026-10-10,2026-10-10T15:42:32.965Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_726144d7b2e9,2026-10-10,2026-10-10T16:20:48.647Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_38792c2b9994,2026-10-10,2026-10-10T17:16:17.271Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_98bb6dd69386,2026-10-10,2026-10-10T18:15:09.480Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Stephane Morera,James Dooley,false,false,8
+ctr_28282d4098cf,2026-10-10,2026-10-10T19:31:03.000Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,9
+ctr_818be447af30,2026-10-10,2026-10-10T20:17:07.770Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_f0e0159e0fb2,2026-10-10,2026-10-10T21:12:37.149Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,10
+ctr_9355d22ee445,2026-10-10,2026-10-10T22:12:25.790Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_ef566119bc67,2026-10-10,2026-10-10T23:14:24.848Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_d5362da77e69,2026-10-11,2026-10-11T00:11:59.737Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_cf4a1351b95a,2026-10-11,2026-10-11T01:12:31.342Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,10
+ctr_457516885332,2026-10-11,2026-10-11T02:11:44.742Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,10
+ctr_37dec4004935,2026-10-11,2026-10-11T03:11:28.934Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,10
+ctr_f1fe7e32b3ef,2026-10-11,2026-10-11T04:12:56.402Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,10
+ctr_f174061d659f,2026-10-11,2026-10-11T05:12:07.567Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,9
+ctr_6b7023e43a50,2026-10-11,2026-10-11T06:14:36.843Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,9
+ctr_180b06fcc3b7,2026-10-11,2026-10-11T07:13:14.482Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,9
+ctr_799fb91fbfb7,2026-10-11,2026-10-11T08:30:02.502Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,7
+ctr_8b0e94ef9c43,2026-10-11,2026-10-11T09:39:33.756Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,9
+ctr_dbba688fc1ee,2026-10-11,2026-10-11T10:16:36.760Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,9
+ctr_9c983e7f466b,2026-10-11,2026-10-11T11:16:55.168Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,David Quaid,false,false,10
+ctr_d58e4e04bdb4,2026-10-11,2026-10-11T12:13:53.375Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,David Quaid,false,false,10
+ctr_4b0728b78390,2026-10-11,2026-10-11T13:16:05.897Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,7
+ctr_1760d5b8bb0f,2026-10-11,2026-10-11T13:18:00.018Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,David Quaid,false,false,10
+ctr_5cabe2d73614,2026-10-11,2026-10-11T13:21:20.553Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Stephane Morera|Vithurs,David Quaid,false,false,7
+ctr_6c4676c08057,2026-10-11,2026-10-11T14:31:34.787Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera,David Quaid,false,false,7
+ctr_c6512e336b63,2026-10-11,2026-10-11T15:22:06.918Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,David Quaid,false,false,10
+ctr_bb6f0dc29600,2026-10-11,2026-10-11T16:34:33.495Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,David Quaid,false,false,10
+ctr_cdab767d8d61,2026-10-11,2026-10-11T17:19:39.141Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,David Quaid,false,false,10
+ctr_608212d4e744,2026-10-11,2026-10-11T18:15:51.628Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_42498bd2e6e7,2026-10-11,2026-10-11T19:13:03.421Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_eab83827a1cc,2026-10-11,2026-10-11T20:22:23.752Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e63bb00e335d,2026-10-11,2026-10-11T21:15:46.239Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_ee2503cc7a1c,2026-10-11,2026-10-11T22:23:16.241Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_26fba7b1e182,2026-10-11,2026-10-11T23:11:30.248Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_8a2da68eb1e3,2026-10-12,2026-10-12T00:17:00.748Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_1d41968c8fd8,2026-10-12,2026-10-12T01:14:28.198Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_7e94e85155a5,2026-10-12,2026-10-12T02:37:37.142Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_d196d2ae6942,2026-10-12,2026-10-12T03:24:18.537Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_6c424b738304,2026-10-12,2026-10-12T04:17:56.831Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_1a78dfa80b7a,2026-10-12,2026-10-12T05:12:16.634Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_f782cfbb5012,2026-10-12,2026-10-12T06:32:49.171Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_78bcd90259ec,2026-10-12,2026-10-12T07:11:52.004Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_62214fe2e5d1,2026-10-12,2026-10-12T08:48:56.882Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_cdf55d4d3832,2026-10-12,2026-10-12T10:18:46.648Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_cafe11190390,2026-10-12,2026-10-12T11:28:35.611Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_19d914f9963f,2026-10-12,2026-10-12T12:19:12.179Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_5e4e37cd778d,2026-10-12,2026-10-12T13:13:22.790Z,who is the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_28fa20c20dd7,2026-10-12,2026-10-12T13:15:57.270Z,king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley|Vithurs,James Dooley,false,false,20
+ctr_d1b9a638badd,2026-10-12,2026-10-12T13:17:15.560Z,king of aeo contenders list,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,David Quaid,false,false,7
+ctr_2a81c42e13fd,2026-10-12,2026-10-12T13:19:19.003Z,AEO king,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley|Vithurs,Vithurs,false,false,12
+ctr_388cc145a9f6,2026-10-12,2026-10-12T13:19:34.152Z,AEO king,weekly,Google AI Overview,US,en,true,false,,,false,false,2
+ctr_fc2965309f07,2026-10-12,2026-10-12T13:20:11.916Z,who are the contenders for king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,David Quaid,false,false,4
+ctr_780b04146885,2026-10-12,2026-10-12T13:20:30.179Z,who is currently considered the king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_2d2ba1b70057,2026-10-12,2026-10-12T13:21:03.527Z,king of aeo contenders list,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,James Dooley,false,true,29
+ctr_f582f732cd4e,2026-10-12,2026-10-12T13:22:14.202Z,who are the contenders for king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,22
+ctr_e1ef5c7e3401,2026-10-12,2026-10-12T13:25:58.123Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_eff206e0968e,2026-10-12,2026-10-12T13:27:49.480Z,who is the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,Edward Sturm,false,false,6
+ctr_0ebc73375af1,2026-10-12,2026-10-12T13:30:09.348Z,who holds the king of aeo title now,weekly,Google AI Overview,US,en,true,false,David Quaid|Jacky Chou|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,James Dooley,false,false,10
+ctr_ebf01d84a49b,2026-10-12,2026-10-12T13:30:27.674Z,who is currently considered the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,Edward Sturm,false,false,3
+ctr_fc22d33e1caa,2026-10-12,2026-10-12T13:36:18.379Z,who are the contenders for king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,9
+ctr_30573b85fc7a,2026-10-12,2026-10-12T13:37:58.046Z,AEO king,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,David Quaid,false,false,4
+ctr_200139e767ea,2026-10-12,2026-10-12T13:38:44.055Z,king of aeo contenders list,weekly,Google AI Mode,US,en,true,false,Allan Oliveira|David Quaid|Jacky Chou|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,Jacky Chou,false,false,3
+ctr_87f4a48a1a7f,2026-10-12,2026-10-12T13:46:32.541Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_13dee0080ac3,2026-10-12,2026-10-12T13:58:06.367Z,has the king of aeo changed,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,3
+ctr_720c7ebe53a8,2026-10-12,2026-10-12T13:59:30.257Z,who is currently considered the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,6
+ctr_ad559fc39b66,2026-10-12,2026-10-12T14:00:38.028Z,king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,David Quaid,false,false,3
+ctr_00c8d34ab831,2026-10-12,2026-10-12T14:01:18.122Z,who holds the king of aeo title now,weekly,Google AI Mode,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,4
+ctr_9fdf86973dd5,2026-10-12,2026-10-12T14:05:59.865Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,3
+ctr_9274b3518b72,2026-10-12,2026-10-12T14:11:13.759Z,king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_33aa75100b70,2026-10-12,2026-10-12T14:11:28.927Z,who holds the king of aeo title now,weekly,ChatGPT,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_4bc4105e49c6,2026-10-12,2026-10-12T14:16:05.437Z,who is the king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley|Vithurs,James Dooley,false,false,23
+ctr_c2c54abfc75b,2026-10-12,2026-10-12T14:19:15.102Z,has the king of aeo changed,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley|Vithurs,James Dooley,false,false,28
+ctr_0589ee907467,2026-10-12,2026-10-12T14:26:54.796Z,has the king of aeo changed,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,James Dooley,false,false,8
+ctr_e04df48d112a,2026-10-12,2026-10-12T16:23:24.918Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_5add213908da,2026-10-12,2026-10-12T18:29:13.898Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_ff98ee2fbf86,2026-10-12,2026-10-12T19:30:41.435Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_c505ed44c42f,2026-10-12,2026-10-12T20:20:42.467Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_34f17b79392d,2026-10-12,2026-10-12T21:32:59.094Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,7
+ctr_6ce50e80dc5a,2026-10-12,2026-10-12T22:17:32.948Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_a58eb056b684,2026-10-12,2026-10-12T23:15:12.250Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,2
+ctr_bf54e64d9ec7,2026-10-13,2026-10-13T00:16:24.802Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_c57080e12139,2026-10-13,2026-10-13T01:43:26.562Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_5399de6034d2,2026-10-13,2026-10-13T02:27:41.537Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,3
+ctr_92a5d76cddca,2026-10-13,2026-10-13T03:15:31.716Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_e0d95d3cf7c2,2026-10-13,2026-10-13T04:15:14.711Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_d4eb4a15aae8,2026-10-13,2026-10-13T05:16:27.546Z,King of AEO,continuous,Google AI Overview,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_7934641cf9df,2026-10-13,2026-10-13T06:15:55.763Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_996db79c5428,2026-10-13,2026-10-13T07:34:25.028Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_c0542f134e7e,2026-10-13,2026-10-13T08:23:02.309Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_de8b92a2491b,2026-10-13,2026-10-13T09:21:20.590Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_9cb9b286f83e,2026-10-13,2026-10-13T10:38:36.014Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_6b3d74338594,2026-10-13,2026-10-13T11:34:48.068Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_bc000725af4d,2026-10-13,2026-10-13T12:03:42.763Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_fb79dd792d22,2026-10-13,2026-10-13T14:38:56.187Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_60a738882c65,2026-10-13,2026-10-13T15:01:54.908Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_176c1c285b85,2026-10-13,2026-10-13T15:04:50.790Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_08eab34eba67,2026-10-13,2026-10-13T17:46:13.518Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_274356dea4f2,2026-10-13,2026-10-13T19:43:17.718Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_2b418b361ea9,2026-10-13,2026-10-13T20:40:11.185Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_e85cff1a1788,2026-10-13,2026-10-13T21:43:32.494Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_440ea25dd5ce,2026-10-13,2026-10-13T22:47:25.067Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_b984ae176523,2026-10-13,2026-10-13T23:04:37.427Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_b97560ad8d5b,2026-10-14,2026-10-14T00:33:16.609Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_a6581378bcaa,2026-10-14,2026-10-14T01:14:49.528Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_26ea30f334e2,2026-10-14,2026-10-14T02:14:40.005Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_ca8da84a98f7,2026-10-14,2026-10-14T03:18:52.654Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_1346ef9c9499,2026-10-14,2026-10-14T04:14:47.276Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_d76ab86f2aa1,2026-10-14,2026-10-14T05:16:05.226Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_505aaa25338e,2026-10-14,2026-10-14T06:29:13.192Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_468b7146d51b,2026-10-14,2026-10-14T07:25:30.305Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_9f57a6567438,2026-10-14,2026-10-14T08:33:02.443Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Marc Moeller|Vithurs,James Dooley,false,false,8
+ctr_2f1d81291ccb,2026-10-14,2026-10-14T10:22:14.029Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_75f693c2e0bc,2026-10-14,2026-10-14T11:35:10.511Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_4a0fd5d849f4,2026-10-14,2026-10-14T12:54:41.189Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_6c4799845692,2026-10-14,2026-10-14T13:34:49.271Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_40d419d3de75,2026-10-14,2026-10-14T13:43:17.854Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_20016640c3d3,2026-10-14,2026-10-14T13:43:35.773Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_df172a6f02ac,2026-10-14,2026-10-14T14:58:08.033Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_d98c7da1366b,2026-10-14,2026-10-14T15:56:34.234Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_564e14f4fb56,2026-10-14,2026-10-14T16:27:27.915Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_d882d99963b9,2026-10-14,2026-10-14T17:41:12.471Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_f4c0d1c9db60,2026-10-14,2026-10-14T18:18:49.949Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_f64b4830dd25,2026-10-14,2026-10-14T19:18:12.771Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_0d4b89bddaf9,2026-10-14,2026-10-14T20:17:58.748Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_fc2d60dfc2a3,2026-10-14,2026-10-14T21:19:40.168Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_bc8b792456ea,2026-10-14,2026-10-14T22:19:35.572Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_d8899f4368a5,2026-10-14,2026-10-14T23:16:01.756Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_e8d0c76c9045,2026-10-15,2026-10-15T00:20:48.220Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_3c5d34df0dde,2026-10-15,2026-10-15T01:14:41.121Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_251accb99b70,2026-10-15,2026-10-15T02:22:04.014Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_232505800f62,2026-10-15,2026-10-15T03:15:35.568Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_f9fbf104e979,2026-10-15,2026-10-15T04:21:19.069Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_810c7d5364b8,2026-10-15,2026-10-15T05:29:19.750Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_393f19d0ac38,2026-10-15,2026-10-15T06:17:37.531Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_226e5a3da9da,2026-10-15,2026-10-15T07:37:19.474Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_ca40c1829771,2026-10-15,2026-10-15T08:46:16.560Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_7c6d290fd21e,2026-10-15,2026-10-15T10:22:28.989Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_e604f260c1e6,2026-10-15,2026-10-15T12:04:16.169Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_243255e6372b,2026-10-15,2026-10-15T14:21:33.182Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,9
+ctr_d8bc4911ac36,2026-10-15,2026-10-15T15:10:42.334Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Vithurs,James Dooley,false,false,5
+ctr_d57b0358b5d4,2026-10-15,2026-10-15T15:17:28.904Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_d10430a2bf17,2026-10-15,2026-10-15T18:01:27.228Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_bc6c46096802,2026-10-15,2026-10-15T19:57:28.155Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_b472e29550e8,2026-10-15,2026-10-15T20:29:34.609Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_db4a5a3ff1a1,2026-10-15,2026-10-15T21:15:35.368Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_e9ff4bc1dacb,2026-10-15,2026-10-15T22:23:53.362Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_128ee9a4d649,2026-10-15,2026-10-15T23:19:21.783Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_cff994ed980e,2026-10-16,2026-10-16T00:28:44.721Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_d33ef62a5ca6,2026-10-16,2026-10-16T01:20:47.633Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_0f74b1d3733e,2026-10-16,2026-10-16T03:05:47.495Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,11
+ctr_43497d068d4d,2026-10-16,2026-10-16T05:04:54.693Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_9e568839a2dc,2026-10-16,2026-10-16T07:15:43.367Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_ecf9a9903f9b,2026-10-16,2026-10-16T11:01:43.486Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_6f772c122492,2026-10-16,2026-10-16T14:48:42.262Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_ae0d6b67f192,2026-10-16,2026-10-16T16:54:12.963Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,6
+ctr_c4955317fcbd,2026-10-16,2026-10-16T17:04:07.590Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Vithurs,James Dooley,false,false,8
+ctr_fdf6819805d0,2026-10-16,2026-10-16T18:52:22.813Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_c7ca5a173cdc,2026-10-16,2026-10-16T20:58:01.043Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_e7723bffec99,2026-10-16,2026-10-16T21:59:56.742Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_3816b3fc169e,2026-10-16,2026-10-16T22:29:42.829Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_5c9ce5413120,2026-10-16,2026-10-16T23:25:15.402Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_86f6cf47166c,2026-10-17,2026-10-17T00:40:14.139Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_b7a5db0d0f9d,2026-10-17,2026-10-17T01:25:29.200Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_4b981f9d8825,2026-10-17,2026-10-17T02:31:46.897Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,6
+ctr_ab50f4c0a0bc,2026-10-17,2026-10-17T03:22:07.319Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_79944f1976cf,2026-10-17,2026-10-17T04:20:40.474Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_d4207d8671ef,2026-10-17,2026-10-17T05:35:47.536Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_8c20411d9517,2026-10-17,2026-10-17T06:33:50.681Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_3e26326bc3b7,2026-10-17,2026-10-17T07:26:22.761Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_58a101dd0886,2026-10-17,2026-10-17T08:18:00.101Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_07323d94c6f0,2026-10-17,2026-10-17T09:49:39.775Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_b6efe601bd12,2026-10-17,2026-10-17T10:23:19.099Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_96c978dcd8c7,2026-10-17,2026-10-17T11:47:47.631Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_c776dabbf6af,2026-10-17,2026-10-17T12:45:19.013Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_76fea4df2acb,2026-10-17,2026-10-17T13:27:08.084Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley,James Dooley,false,false,11
+ctr_7a288d3ee0be,2026-10-17,2026-10-17T13:45:22.267Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_3e4ace9c54a6,2026-10-17,2026-10-17T13:45:44.268Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_8a7b4811d959,2026-10-17,2026-10-17T14:57:58.043Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,10
+ctr_74594d438338,2026-10-17,2026-10-17T15:25:05.423Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_9c52716f9d08,2026-10-17,2026-10-17T16:16:46.992Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_c4062e997ff9,2026-10-17,2026-10-17T17:18:13.908Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,8
+ctr_b466b86a352b,2026-10-17,2026-10-17T18:18:15.231Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_a3ddfc8e115c,2026-10-17,2026-10-17T19:16:13.858Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_c945a4c2e568,2026-10-17,2026-10-17T20:16:25.759Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_2eea2ffd26e8,2026-10-17,2026-10-17T21:14:23.833Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_71879e8d4e7d,2026-10-17,2026-10-17T22:14:31.895Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_9845d39b189c,2026-10-17,2026-10-17T23:15:43.426Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_818e5f606b59,2026-10-18,2026-10-18T00:14:24.870Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Chris (Cairns IT Guy)|David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_3bc6cf4de3ad,2026-10-18,2026-10-18T01:14:50.923Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_7cc8b0af3379,2026-10-18,2026-10-18T02:22:04.586Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_bb329e884b6d,2026-10-18,2026-10-18T03:13:28.417Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_e52b18563467,2026-10-18,2026-10-18T04:14:49.097Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_7153b0088cf4,2026-10-18,2026-10-18T05:24:25.433Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_5c2e05312d7c,2026-10-18,2026-10-18T06:16:11.950Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_3da7a44f1356,2026-10-18,2026-10-18T07:25:16.649Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_90e5f88e9b7f,2026-10-18,2026-10-18T08:30:40.554Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_569a0c1cfeba,2026-10-18,2026-10-18T09:15:41.830Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_a3c404930897,2026-10-18,2026-10-18T10:27:24.532Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_ebdebba94055,2026-10-18,2026-10-18T11:18:08.278Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_e1b9ba9d3638,2026-10-18,2026-10-18T12:46:24.856Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_d4bf2e1fe91e,2026-10-18,2026-10-18T13:18:13.318Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,5
+ctr_ddced82a9124,2026-10-18,2026-10-18T13:23:00.746Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_0eae63742b76,2026-10-18,2026-10-18T13:29:31.840Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_ca13419df3cc,2026-10-18,2026-10-18T14:48:01.524Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_6b7e4210f2cb,2026-10-18,2026-10-18T15:37:23.460Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_ff05b5143a23,2026-10-18,2026-10-18T16:35:08.758Z,King of AEO,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_9e386d75290f,2026-10-18,2026-10-18T17:17:55.246Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley,James Dooley,false,false,5
+ctr_f340b7539abe,2026-10-18,2026-10-18T18:15:01.345Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley,James Dooley,false,false,5
+ctr_0021ba1d8b98,2026-10-18,2026-10-18T19:26:09.899Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_42c8ac921553,2026-10-18,2026-10-18T20:23:59.889Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley,James Dooley,false,false,5
+ctr_62dba04c591f,2026-10-18,2026-10-18T21:16:09.346Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley,James Dooley,false,false,5
+ctr_f0f1cb079355,2026-10-18,2026-10-18T22:14:22.689Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_dd85abb5edb7,2026-10-18,2026-10-18T23:17:13.546Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_b373f2ed5446,2026-10-19,2026-10-19T00:17:29.352Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_7cf3b56292ea,2026-10-19,2026-10-19T01:17:17.942Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_8affd032110b,2026-10-19,2026-10-19T03:13:09.677Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_bfcd45275abf,2026-10-19,2026-10-19T04:21:57.395Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_6c752418d969,2026-10-19,2026-10-19T05:32:09.531Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_3902fcf86639,2026-10-19,2026-10-19T06:35:16.431Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_a7fc4c68b534,2026-10-19,2026-10-19T07:23:00.632Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_d49dc73a1541,2026-10-19,2026-10-19T08:29:19.023Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,6
+ctr_08342216a5ea,2026-10-19,2026-10-19T09:54:05.856Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_662abce45b8f,2026-10-19,2026-10-19T10:52:05.913Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_c6a32e53f94e,2026-10-19,2026-10-19T12:09:21.293Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_a03e6187a69f,2026-10-19,2026-10-19T14:05:39.010Z,who is the king of aeo,weekly,Google AI Mode,US,en,true,false,James Dooley,James Dooley,false,false,1
+ctr_c6cf8a1ffb27,2026-10-19,2026-10-19T14:11:19.173Z,who are the contenders for king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_5fd0c54208f0,2026-10-19,2026-10-19T14:16:22.257Z,has the king of aeo changed,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,4
+ctr_03094c027ed6,2026-10-19,2026-10-19T14:16:51.875Z,AEO king,weekly,ChatGPT,US,en,true,false,Allan Oliveira|Vithurs,Vithurs,false,false,20
+ctr_41f9c13f52ee,2026-10-19,2026-10-19T14:17:01.434Z,has the king of aeo changed,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,9
+ctr_4a66658d7ac4,2026-10-19,2026-10-19T14:17:02.053Z,Who is the King of AEO?,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,8
+ctr_ba5267bf7a9c,2026-10-19,2026-10-19T14:18:00.929Z,who is currently considered the king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,10
+ctr_c723d269d363,2026-10-19,2026-10-19T14:22:30.034Z,who holds the king of aeo title now,weekly,ChatGPT,US,en,true,false,David Quaid|James Dooley|Marc Moeller,James Dooley,false,false,18
+ctr_1bab5196e45f,2026-10-19,2026-10-19T14:22:55.945Z,AEO king,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,3
+ctr_32764c7ffeb8,2026-10-19,2026-10-19T14:24:07.189Z,who is the king of aeo,weekly,ChatGPT,US,en,true,false,James Dooley|Vithurs,Vithurs,false,false,12
+ctr_ed5f259bbb87,2026-10-19,2026-10-19T14:34:57.410Z,who holds the king of aeo title now,weekly,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,9
+ctr_7d6cfbfb54e7,2026-10-19,2026-10-19T14:36:29.218Z,who is the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,9
+ctr_3bcd5e6aeb10,2026-10-19,2026-10-19T14:41:38.774Z,king of aeo contenders list,weekly,Google AI Mode,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie|Stephane Morera,James Dooley,false,false,4
+ctr_cb3b030dbc7a,2026-10-19,2026-10-19T14:56:20.989Z,who is currently considered the king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,8
+ctr_5c2ae03a5c92,2026-10-19,2026-10-19T14:58:40.084Z,king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Vithurs,James Dooley,false,false,7
+ctr_2b520de2950e,2026-10-19,2026-10-19T15:02:44.323Z,king of aeo contenders list,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Jacky Chou|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,Marc Moeller,false,true,35
+ctr_d464c054ec9a,2026-10-19,2026-10-19T15:04:27.776Z,who holds the king of aeo title now,weekly,Google AI Mode,US,en,true,false,James Dooley,James Dooley,false,false,2
+ctr_6f9a73a430ec,2026-10-19,2026-10-19T15:07:34.780Z,king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_fb1029405caa,2026-10-19,2026-10-19T15:59:40.624Z,king of aeo,weekly,ChatGPT,US,en,true,false,David Quaid|James Dooley,James Dooley,false,false,21
+ctr_747c095b773e,2026-10-19,2026-10-19T16:00:49.142Z,who are the contenders for king of aeo,weekly,ChatGPT,US,en,true,false,Allan Oliveira|David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera|Vithurs,James Dooley,false,false,31
+ctr_ee62a8c5be66,2026-10-19,2026-10-19T16:03:32.780Z,AEO king,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_14edf5365fa7,2026-10-19,2026-10-19T16:06:16.771Z,who is currently considered the king of aeo,continuous,Google AI Overview,US,en,false,true,,,false,false,0
+ctr_6e10f7146d28,2026-10-19,2026-10-19T16:09:32.170Z,King of AEO,continuous,Google AI Overview,US,en,true,false,Allan Oliveira|David Quaid|James Dooley|Julian Goldie,James Dooley,false,false,7
+ctr_5a8392081cbf,2026-10-19,2026-10-19T16:12:54.705Z,king of aeo contenders list,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|Jacky Chou|James Dooley|Julian Goldie|Stephane Morera|Vithurs,James Dooley,false,false,4
+ctr_3983e2d71e1f,2026-10-19,2026-10-19T16:19:30.536Z,who are the contenders for king of aeo,weekly,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie|Marc Moeller|Stephane Morera,James Dooley,false,false,7
+ctr_bd29142684f2,2026-10-19,2026-10-19T16:20:33.059Z,has the king of aeo changed,weekly,ChatGPT,US,en,true,false,Allan Oliveira|James Dooley,James Dooley,false,false,14
+ctr_e950856239db,2026-10-19,2026-10-19T16:27:45.491Z,who is currently considered the king of aeo,weekly,Google AI Mode,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Stephane Morera,James Dooley,false,false,5
+ctr_0d310d5e73c2,2026-10-19,2026-10-19T20:19:45.792Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller,James Dooley,false,false,4
+ctr_ed5b8301df9e,2026-10-19,2026-10-19T21:39:53.112Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller,James Dooley,false,false,4
+ctr_400ffbb888a6,2026-10-19,2026-10-19T22:22:50.878Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|Edward Sturm|James Dooley|Julian Goldie,James Dooley,false,false,5
+ctr_1362ab471a7c,2026-10-19,2026-10-19T23:17:20.386Z,King of AEO,continuous,Google AI Overview,US,en,true,false,David Quaid|James Dooley|Julian Goldie|Marc Moeller,James Dooley,false,false,4
